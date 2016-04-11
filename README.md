@@ -1,30 +1,50 @@
-# electron-quick-start
+# Keepy
 
-**Clone and run for a quick way to see an Electron in action.**
+> A cute little write-only Google Keep app.
 
-This is a minimal Electron application based on the [Quick Start Guide](http://electron.atom.io/docs/latest/tutorial/quick-start) within the Electron documentation.
+![Screenshot](screenshot.png)
 
-A basic Electron application needs just these files:
+## Install (pre-built binaries)
 
-- `index.html` - A web page to render.
-- `main.js` - Starts the app and creates a browser window to render HTML.
-- `package.json` - Points to the app's main file and lists its details and dependencies.
+Download the pre-built binaries from the [Releases page][releases].
 
-You can learn more about each of these components within the [Quick Start Guide](http://electron.atom.io/docs/latest/tutorial/quick-start).
+[releases]: https://github.com/ryanseys/keepy/releases
 
-## To Use
-
-To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+## Install from source
 
 ```bash
-# Clone this repository
-git clone https://github.com/atom/electron-quick-start
-# Go into the repository
-cd electron-quick-start
-# Install dependencies and run the app
+# Clone this repo
+git clone https://github.com/ryanseys/keepy
+
+# Go into the repo
+cd keepy
+
+# Install deps and run the app
 npm install && npm start
 ```
 
-Learn more about Electron and its API in the [documentation](http://electron.atom.io/docs/latest).
+## Icon credit
 
-#### License [CC0 (Public Domain)](LICENSE.md)
+Icon graciously provided by [Pacifica Icons][icon-link].
+
+[icon-link]: http://www.iconarchive.com/show/pacifica-icons-by-bokehlicia/google-keep-icon.html
+
+## Disclaimer
+
+This is not an official Google product.
+
+## License
+
+Copyright 2016 Google Inc. All Rights Reserved.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.

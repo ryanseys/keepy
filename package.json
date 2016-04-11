@@ -1,10 +1,14 @@
 {
-  "name": "justkeepit",
+  "name": "keepy",
   "version": "1.0.0",
-  "description": "A minimal Google Keep app for only writing",
-  "main": "main.js",
+  "description": "A cute little write-only Google Keep app",
+  "main": "keepy.js",
+  "productName": "Keepy",
   "scripts": {
-    "start": "electron main.js"
+    "start": "electron keepy.js",
+    "build-osx": "electron-packager . --out=builds --platform=darwin --arch=x64 --icon=icons/keep.icns --app-category-type=public.app-category.productivity",
+    "build-win": "electron-packager . --out=builds --platform=win --arch=all --icon=icons/keep.ico",
+    "build-lin": "electron-packager . --out=builds --platform=linux --arch=all"
   },
   "keywords": [
     "google",
@@ -12,8 +16,9 @@
     "simple"
   ],
   "author": "Ryan Seys",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "devDependencies": {
-    "electron-prebuilt": "^0.36.0"
+    "electron-packager": "^6.0.2",
+    "electron-prebuilt": "^0.37.5"
   }
 }
