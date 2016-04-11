@@ -4,7 +4,7 @@
 
 ![Screenshot](screenshot.png)
 
-## Install
+## Download and Install
 
 - [Mac OS X 64-bit](https://github.com/ryanseys/keepy/releases/download/1.0.0/Keepy-darwin-x64.zip)
 - [Linux 64-bit](https://github.com/ryanseys/keepy/releases/download/1.0.0/Keepy-linux-x64.zip) 
