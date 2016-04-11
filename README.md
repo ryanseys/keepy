@@ -4,11 +4,13 @@
 
 ![Screenshot](screenshot.png)
 
-## Install (pre-built binaries)
+## Install
 
-Download the pre-built binaries from the [Releases page][releases].
-
-[releases]: https://github.com/ryanseys/keepy/releases
+- [Mac OS X 64-bit](https://github.com/ryanseys/keepy/releases/download/1.0.0/Keepy-darwin-x64.zip)
+- [Linux 64-bit](https://github.com/ryanseys/keepy/releases/download/1.0.0/Keepy-linux-x64.zip) 
+- [Linux 32-bit](https://github.com/ryanseys/keepy/releases/download/1.0.0/Keepy-linux-ia32.zip) 
+- [Windows 64-bit](https://github.com/ryanseys/keepy/releases/download/1.0.0/Keepy-win32-ia32.zip)
+- [Windows 32-bit](https://github.com/ryanseys/keepy/releases/download/1.0.0/Keepy-win32-x64.zip) 
 
 ## Install from source
 
