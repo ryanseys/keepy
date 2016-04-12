@@ -35,8 +35,6 @@ function createWindow () {
     show: false
   })
 
-  mainWindow
-
   // Load Google Keep
   mainWindow.loadURL('https://keep.google.com/')
 
