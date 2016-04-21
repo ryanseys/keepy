@@ -9,8 +9,8 @@
 - [Mac OS X 64-bit](https://github.com/ryanseys/keepy/releases/download/1.0.0/Keepy-darwin-x64.zip)
 - [Linux 64-bit](https://github.com/ryanseys/keepy/releases/download/1.0.0/Keepy-linux-x64.zip) 
 - [Linux 32-bit](https://github.com/ryanseys/keepy/releases/download/1.0.0/Keepy-linux-ia32.zip) 
-- [Windows 64-bit](https://github.com/ryanseys/keepy/releases/download/1.0.0/Keepy-win32-ia32.zip)
-- [Windows 32-bit](https://github.com/ryanseys/keepy/releases/download/1.0.0/Keepy-win32-x64.zip) 
+- [Windows 64-bit](https://github.com/ryanseys/keepy/releases/download/1.0.0/Keepy-win32-x64.zip)
+- [Windows 32-bit](https://github.com/ryanseys/keepy/releases/download/1.0.0/Keepy-win32-ia32.zip) 
 
 ## Install from source
 
