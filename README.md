@@ -1,6 +1,6 @@
 # Keepy
 
-> A cute little write-only Google Keep app.
+> A cute little write-only Google Keep app, which allows to write notes on your laptop/desktop.(This isn't keepy.me :) )
 
 ![Screenshot](screenshot.png)
 
